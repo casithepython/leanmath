@@ -1,5 +1,5 @@
 import Mathlib.Analysis.SpecialFunctions.Log.Basic
-import MIL.Common
+import leanmath.Common
 
 variable (a b c d e : ℝ)
 open Real

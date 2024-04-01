@@ -1,4 +1,4 @@
-import MIL.Common
+import leanmath.Common
 import Mathlib.Topology.MetricSpace.Basic
 
 section
@@ -109,4 +109,3 @@ example (x y : X) : 0 ≤ dist x y := by
   sorry
 
 end
-
