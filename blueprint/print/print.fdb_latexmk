@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1711936150.35516 "print.tex" "/Users/casi/Documents/Mathematics/leanmath/blueprint/print/print.pdf" "print" 1711936152.4193 0
-  "/Users/casi/Documents/Mathematics/leanmath/blueprint/print/print.aux" 1711936151.62433 128 852fc3e86949e4a73cd552c13992dc37 "pdflatex"
-  "/Users/casi/Documents/Mathematics/leanmath/blueprint/print/print.out" 1711936151.24843 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["pdflatex"] 1711936291.46924 "print.tex" "/Users/casi/Documents/Mathematics/leanmath/blueprint/print/print.pdf" "print" 1711936293.68284 0
+  "/Users/casi/Documents/Mathematics/leanmath/blueprint/print/print.aux" 1711936292.88746 380 ccf010e44f178d06ac6340917bb758c1 "pdflatex"
+  "/Users/casi/Documents/Mathematics/leanmath/blueprint/print/print.out" 1711936292.88805 91 1db80994db6f8e44e346a0166fa6c66a "pdflatex"
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -82,10 +82,10 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1710650832 10850183 e82541068cd0791e7acc1fbedecfbc66 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "content.tex" 1711936145.55249 364 9cdd23d26eef764a317eac8e2ad441e6 ""
+  "content.tex" 1711936286.28566 508 2685aad9fc68f16bec23cd464c26ee1f ""
   "macros/common.tex" 1711933745.59869 142 10e8f81f8b8dcf47997f6d1d7aa55e98 ""
   "macros/print.tex" 1711933745.60038 1020 0aabb56773194b53a90bc4ad24bdebe3 ""
-  "print.tex" 1711933745.60541 1107 b178826797ee2551b1d6823bed97927d ""
+  "print.tex" 1711936282.3905 1137 9c4376d78b0c9a05ef28d267c6b89257 ""
   (generated)
   "/Users/casi/Documents/Mathematics/leanmath/blueprint/print/print.aux"
   "/Users/casi/Documents/Mathematics/leanmath/blueprint/print/print.log"
